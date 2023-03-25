@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 I developed this using ReactJS by create-react-app.
+
 Then I sorted the files(deleted few files which weren't necessary) in order to keep the clean code structure and file managing.
 
 The way I planned and accomplished this assignment is simple.
