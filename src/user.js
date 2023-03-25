@@ -12,7 +12,7 @@ const Users = ({ loading, users }) => {
                 <div className="col-sm-6 col-md-4">
                     <div className="info">
                         <img src = {user.avatar} alt = {user.avatar} className="image"></img>
-                        <h2>ID: {user.id}</h2>
+                        <h2 className="id"> ID: {user.id}</h2>
                         <h3 className="name">
                             {user.first_name} {user.last_name}
                         </h3>

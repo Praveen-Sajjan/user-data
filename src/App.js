@@ -32,7 +32,7 @@ class App extends Component {
       <nav id="col-sm-6 col-md-4">
         <ul>
           <li><h1 id="logo"> FREEFLOW.music</h1></li>
-          <li><button onClick={this.showUsers}> GET ARTIST DATA</button></li>
+          <li><button onClick={this.showUsers}> GET USERS</button></li>
           </ul>
           </nav>
 
