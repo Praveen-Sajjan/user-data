@@ -2,6 +2,29 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I developed this using ReactJS by create-react-app.
+Then I sorted the files(deleted few files which weren't necessary) in order to keep the clean code structure and file managing.
+
+The way I planned and accomplished this assignment is simple.
+At first, I created few files which were necessary in the src folder.
+Then I carried out by creating a Navigation Bar.
+The Navigation Bar consists of a button named Get User on the right hand side and a brand logo on the left hand side.
+Then, I took a template of Fetch API from React and carried out creating a Fetch API call by adding the link provided, did a few trial and error and then got the output after encountering a few errors here and there.
+
+For the grid layout, I have used Bootstrap which I felt as easy and also I have used it in my earlier projects too.
+
+Coming to Animation part on the home page, I have taken it from one of the CodePen profiles and managed to edit it as per my requirements and added it into the code.
+It's actually a bit complicated to code the whole animation part from scratch as it's a bit complicated, So, I have just taken it from the Internet and edited it in according to the project.
+
+And the CSS I have used in this project is also simple and the coding part is all necessary one's and not so advanced level.
+
+The whole UI idea is my own. The color palletes, the fonts and the design is done by me.
+
+The time taken by me for completing this task is one and a half day.
+I have started it on 24/03/2023 and completed it by 25/03/2023.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
